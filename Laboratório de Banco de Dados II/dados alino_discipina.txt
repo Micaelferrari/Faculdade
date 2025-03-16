@@ -1,0 +1,161 @@
+db.aluno_disciplina.insertMany([
+  // Leonardo Nascimento Souza Cruz
+  {
+    id_aluno: ObjectId("67c103107dcf9d4e489b1763"), // Leonardo
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccd") // Laboratório de Banco de Dados
+  },
+  {
+    id_aluno: ObjectId("67c103107dcf9d4e489b1763"), // Leonardo
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccf") // Governança em Tecnologia da Informação
+  },
+  {
+    id_aluno: ObjectId("67c103107dcf9d4e489b1763"), // Leonardo
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd2") // Engenharia de Software
+  },
+  {
+    id_aluno: ObjectId("67c103107dcf9d4e489b1763"), // Leonardo
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Guilherme Riguiti de Oliveira
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b1769"), // Guilherme
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cce") // Optativa I
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b1769"), // Guilherme
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccf") // Governança em Tecnologia da Informação
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b1769"), // Guilherme
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd3") // Gestão de Projetos
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b1769"), // Guilherme
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Pedro Henrique Carlos de Souza Machado
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b176a"), // Pedro Henrique
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cce") // Optativa I
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b176a"), // Pedro Henrique
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd0") // Linguagem de Programação I
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b176a"), // Pedro Henrique
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd3") // Gestão de Projetos
+  },
+  {
+    id_aluno: ObjectId("67c1077c7dcf9d4e489b176a"), // Pedro Henrique
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Marcos Tarcisio Buettel Mota
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccd") // Laboratório de Banco de Dados
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cce") // Optativa I
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccf") // Governança em Tecnologia da Informação
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd0") // Linguagem de Programação I
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd1") // Algoritmos
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd2") // Engenharia de Software
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd3") // Gestão de Projetos
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc8"), // Marcos Tarcisio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Lucas dos Santos Narciso
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc9"), // Lucas
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccd") // Laboratório de Banco de Dados
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc9"), // Lucas
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cce") // Optativa I
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc9"), // Lucas
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd2") // Engenharia de Software
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc9"), // Lucas
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd3") // Gestão de Projetos
+  },
+  {
+    id_aluno: ObjectId("67c108c6109fd7366d1c2cc9"), // Lucas
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Luiz Octavio Barros Rodrigues
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2cca"), // Luiz Octavio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccf") // Governança em Tecnologia da Informação
+  },
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2cca"), // Luiz Octavio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd2") // Engenharia de Software
+  },
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2cca"), // Luiz Octavio
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // João Marcus da Silva Sousa
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2ccb"), // João Marcus
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccf") // Governança em Tecnologia da Informação
+  },
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2ccb"), // João Marcus
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd0") // Linguagem de Programação I
+  },
+  {
+    id_aluno: ObjectId("67c10974109fd7366d1c2ccb"), // João Marcus
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  },
+
+  // Flávia Aparecida Ferrari Toscano
+  {
+    id_aluno: ObjectId("67c109d1109fd7366d1c2ccc"), // Flávia
+    id_disciplina: ObjectId("67c11059109fd7366d1c2ccd") // Laboratório de Banco de Dados
+  },
+  {
+    id_aluno: ObjectId("67c109d1109fd7366d1c2ccc"), // Flávia
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd0") // Linguagem de Programação I
+  },
+  {
+    id_aluno: ObjectId("67c109d1109fd7366d1c2ccc"), // Flávia
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd1") // Algoritmos
+  },
+  {
+    id_aluno: ObjectId("67c109d1109fd7366d1c2ccc"), // Flávia
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd3") // Gestão de Projetos
+  },
+  {
+    id_aluno: ObjectId("67c109d1109fd7366d1c2ccc"), // Flávia
+    id_disciplina: ObjectId("67c11059109fd7366d1c2cd4") // Projeto Aplicado à Comunidade IV
+  }
+]);
